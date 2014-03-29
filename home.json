@@ -1,0 +1,19 @@
+{
+  "success":true,
+  "result":{
+    "timelines" : [
+    	{
+    		"name":"Missing Malaysian Airline",
+    		"id":"malaysianflight",
+    		"cover_url":"imgur.com/missingplaneorwhatever",
+    		"start_date":"March 8th, 2014"
+    	},
+    	{
+    		"name":"Ukraine",
+    		"id":"qwertyuiop",
+    		"cover_url":"imgur.com/hashtagputin",
+    		"start_date":"Novemeber 21st, 2013"
+    	}
+    ]
+  }
+}
