@@ -5,14 +5,16 @@
     	{
     		"name":"Missing Malaysian Airline",
     		"id":"malaysianflight",
-    		"cover_url":"imgur.com/missingplaneorwhatever",
-    		"start_date":"March 8th, 2014"
+    		"cover_url":"http://guardianlv.com/wp-content/uploads/2014/03/malaysian-plane-650x352.jpg",
+    		"start_date":"March 8th, 2014",
+            "category":"World News"
     	},
     	{
     		"name":"Ukraine",
     		"id":"qwertyuiop",
-    		"cover_url":"imgur.com/hashtagputin",
-    		"start_date":"Novemeber 21st, 2013"
+    		"cover_url":"http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/847/476/012414_ANR_Ukraine_640.jpg?ve=1&tl=1",
+    		"start_date":"Novemeber 21st, 2013",
+            "category":"World News"
     	}
     ]
   }

@@ -6,21 +6,41 @@
     		"title":"Malaysia Airlines flight to Beijing vanishes",
     		"id":"malaysianflight",
     		"url":"http://www.bbc.com/news/world-asia-26492748",
+            "cover":"http://news.bbcimg.co.uk/media/images/73450000/jpg/_73450745_019023451-1.jpg",
     		"date":"8 March 2014",
             "time":"06:50 ET",
-            "resource":"BBC",
-            "resource_icon":"http://static.bbci.co.uk/frameworks/barlesque/2.60.1/desktop/3.5/img/blq-blocks_grey_alpha.png",
-            "blurb":"Malaysia Airlines said in a statement that flight MH370 had disappeared at 02:40 local time on Saturday (18:40 GMT on Friday) after leaving Kuala Lumpur. It had been expected to land in Beijing at 06:30 (22:30 GMT)."
-    	},
+            "blurb":"Malaysia Airlines said in a statement that flight MH370 had disappeared at 02:40 local time on Saturday (18:40 GMT on Friday) after leaving Kuala Lumpur. It had been expected to land in Beijing at 06:30 (22:30 GMT).",
+    	    "resource":{
+                "name":"BBC",
+                "icon":"http://static.bbci.co.uk/frameworks/barlesque/2.60.1/desktop/3.5/img/blq-blocks_grey_alpha.png"
+            }
+        },
     	{
     		"title":"Passport Theft Adds to Mystery of Missing Malaysia Airlines Jet",
             "id":"malaysianflight",
             "url":"http://www.nytimes.com/2014/03/09/world/asia/malaysia-airlines-flight.html",
+            "cover":"",
             "date":"8 March 2014",
-            "resource":"NY Times",
-            "resource_icon":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaj_PlAH9mVocC4-qy982dpkjP9ZdNTl5WPpA7JyH7tyFGsjt9",
-            "blurb":"KUALA LUMPUR, Malaysia — Investigators trying to find out what happened to a Malaysia Airlines jet that disappeared en route to Beijing on Saturday morning were examining the usual causes of plane crashes: mechanical failure, pilot error, bad weather. But the discovery that two of the passengers were carrying stolen passports also raised the unsettling possibility of foul play."
-    	}
+            "time":"",
+            "blurb":"KUALA LUMPUR, Malaysia — Investigators trying to find out what happened to a Malaysia Airlines jet that disappeared en route to Beijing on Saturday morning were examining the usual causes of plane crashes: mechanical failure, pilot error, bad weather. But the discovery that two of the passengers were carrying stolen passports also raised the unsettling possibility of foul play.",
+    	    "resource":{
+                "name":"NY Times",
+                "icon":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaj_PlAH9mVocC4-qy982dpkjP9ZdNTl5WPpA7JyH7tyFGsjt9"
+            }
+        },
+        {
+            "title":"Last words: 'Good night Malaysian 370'",
+            "id":"malaysianflight",
+            "url":"http://www.nytimes.com/2014/03/09/world/asia/malaysia-airlines-flight.html",
+            "cover":"http://www.trbimg.com/img-533835c1/turbine/chi-malaysia-airlines-plane-pg-100/1000/1000x718",
+            "date":"31 March 2014",
+            "time":"",
+            "blurb":"HMAS STIRLING NAVAL BASE, Australia — The last words spoken by one of the pilots of the missing Malaysian Airlines airliner to the control tower were \"Good night Malaysian three seven zero\", Malaysia's civil aviation authority said, changing the previous account of the last message as a more casual \"All right, good night.\"",
+            "resource":{
+                "name":"Chicago Tribune",
+                "icon":"https://d1jflg30d72u4e.cloudfront.net/wp-content/uploads/2014/01/chicago-tribune-logo-black.jpg"
+            }
+        }
     ]
   }
 }
