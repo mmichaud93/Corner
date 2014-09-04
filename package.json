@@ -1,7 +1,11 @@
 {
 	"name":"corner",
 	"description":"timeline news",
+<<<<<<< HEAD
 	"scripts": {"start": "node app.js"},
+=======
+	"scripts": {"start": "node index.js"},
+>>>>>>> 7fe82038139848da384ec5d0f78ef428bc5ffc4d
 	"version":"0.0.1",
 	"private":true,
 	"dependencies": {
