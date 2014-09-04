@@ -1,8 +1,7 @@
 var timeliner = require("./timeliner");
 
 var querystring = require("querystring"),
-	fs = require("fs"),
-	formidable = require("formidable");
+	fs = require("fs")
 
 function home(response, postData, request) {
 	readJSONFile("./home.json", function (err, json) {
